@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NaiySliogan/React_food_order_app_project/static/css/main.18cd786b.css",
-    "main.js": "/NaiySliogan/React_food_order_app_project/static/js/main.6781fe58.js",
-    "static/js/787.6c4e35a1.chunk.js": "/NaiySliogan/React_food_order_app_project/static/js/787.6c4e35a1.chunk.js",
-    "static/media/meals.jpg": "/NaiySliogan/React_food_order_app_project/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/NaiySliogan/React_food_order_app_project/index.html",
-    "main.18cd786b.css.map": "/NaiySliogan/React_food_order_app_project/static/css/main.18cd786b.css.map",
-    "main.6781fe58.js.map": "/NaiySliogan/React_food_order_app_project/static/js/main.6781fe58.js.map",
-    "787.6c4e35a1.chunk.js.map": "/NaiySliogan/React_food_order_app_project/static/js/787.6c4e35a1.chunk.js.map"
+    "main.css": "/React_food_order_app_project/static/css/main.18cd786b.css",
+    "main.js": "/React_food_order_app_project/static/js/main.40192432.js",
+    "static/js/787.6c4e35a1.chunk.js": "/React_food_order_app_project/static/js/787.6c4e35a1.chunk.js",
+    "static/media/meals.jpg": "/React_food_order_app_project/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/React_food_order_app_project/index.html",
+    "main.18cd786b.css.map": "/React_food_order_app_project/static/css/main.18cd786b.css.map",
+    "main.40192432.js.map": "/React_food_order_app_project/static/js/main.40192432.js.map",
+    "787.6c4e35a1.chunk.js.map": "/React_food_order_app_project/static/js/787.6c4e35a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18cd786b.css",
-    "static/js/main.6781fe58.js"
+    "static/js/main.40192432.js"
   ]
 }
