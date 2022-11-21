@@ -1,7 +1,7 @@
 {
   "name": "06-food-order-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/NaiySliogan/React_food_order_app_project",
+  "homepage": "https://naiysliogan.github.io/React_food_order_app_project/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
