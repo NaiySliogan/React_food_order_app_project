@@ -6,11 +6,11 @@ L'application est visible ici : https://naiysliogan.github.io/React_food_order_a
 
 # Ajouts et modifications prévues dans le futur 
 
--test unitaires
+-Test unitaires
 
--ajout d'un compte administrateur premettant d'éditer la liste de nourriture quand connecté.
+-Ajout d'un compte administrateur premettant d'éditer la liste de nourriture quand connecté
 
--ajout d'un nouvel onglet avec un formulaire de contact
+-Ajout d'un nouvel onglet avec un formulaire de contact
 
 
 # Getting Started with Create React App
