@@ -4,14 +4,6 @@ Application Web sous React de commande de nourriture. Cette application est dés
 
 L'application est visible ici : https://naiysliogan.github.io/React_food_order_app_project/
 
-# Ajouts et modifications prévues dans le futur 
-
--Test unitaires
-
--Ajout d'un compte administrateur permettant d'éditer la liste de nourriture quand connecté
-
--Ajout d'un nouvel onglet avec un formulaire de contact
-
 
 # Getting Started with Create React App
 
